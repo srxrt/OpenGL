@@ -245,3 +245,4 @@ OpenGL-Project/Debug/OpenGL-Project.tlog/CL.read.1.tlog
 *.tlog
 /.vs
 /OpenGL
+/Dependencies/GLEW/bin
